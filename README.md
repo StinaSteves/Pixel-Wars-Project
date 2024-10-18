@@ -1,18 +1,18 @@
 **README für CSS-Stile und JavaScript-Interaktionen**
 
-**Video-Präsentation**
-Bevor du mit der Nutzung dieses Projekts beginnst, möchte ich dich einladen, dir dieses YouTube-Video anzusehen. Es bietet eine umfassende Einführung in die Funktionen und Design-Elemente, die in diesem Projekt implementiert sind. Bitte schau dir das Video zuerst an:
+**Video-Präsentation**<br>
+`Bevor du dich mit diesem Projekt beschäftigst, lade ich dich ein, dir dieses YouTube-Video anzusehen. Es erklärt das Projekt sowie meine Rolle und Aufgaben innerhalb des Projekts. Bitte schaue dir das Video zuerst an:`
 
 https://www.youtube.com/watch?v=ueTUKa4RlH4
 
-**Übersicht**
+**Übersicht**<br>
 Willkommen zu meinem CSS-Stylesheet und den dazugehörigen JavaScript-Interaktionen! In diesem Projekt habe ich meine Fähigkeiten in der Frontend-Entwicklung genutzt, um eine ansprechende und dynamische Benutzeroberfläche zu schaffen. Ich habe nicht nur moderne CSS-Techniken wie Flexbox und responsives Design eingesetzt, sondern auch JavaScript verwendet, um interaktive Elemente zu implementieren und einen beeindruckenden Parallax-Effekt zu erzielen. Mein Ziel ist es, ein nahtloses Benutzererlebnis zu bieten, das sowohl ästhetisch ansprechend als auch funktional ist.
 
-**Voraussetzungen**
+**Voraussetzungen**<br>
 Webbrowser: Ein moderner Webbrowser wird empfohlen, um die vollständige Funktionalität und die visuellen Effekte optimal nutzen zu können.
 Google Fonts: Die Schriftarten Actor und Gluten werden von Bunny Fonts importiert und sind entscheidend für die visuelle Identität der Anwendung.
 
-****Struktur**
+****Struktur**<br>
 
 CSS-Elemente
 
@@ -26,21 +26,21 @@ Header-Bereich
 .second: Ein rechteckiges Element mit einem ansprechenden Hintergrundbild, das dem Design Tiefe verleiht.
 .play: Ein kreisförmiger Button, der nicht nur funktional ist, sondern auch die Interaktivität fördert.
 
-**Schriftstile**
+**Schriftstile**<br>
 #title: Der Haupttitel ist auffällig gestaltet, mit dynamischen Schriftgrößen und einem leichten Schatten für mehr Tiefe.
 #catchphrase: Ein prägnanter Slogan, der sofort ins Auge fällt und die Kernbotschaft kommuniziert.
 #titlePixel, #titleWars: Zusätzliche Titel, die durch ihre spezifischen Farben und Schattierungen hervorgehoben werden.
 
-**Hauptinhalt**
+**Hauptinhalt**<br>
 .overview: Hier habe ich Schriftart, Farbe und Ausrichtung so gewählt, dass der Inhalt klar und ansprechend präsentiert wird, was besonders für die Benutzerfreundlichkeit wichtig ist.
 
-**JavaScript-Interaktionen**
+**JavaScript-Interaktionen**<br>
 In diesem Projekt habe ich JavaScript verwendet, um das Benutzererlebnis zu verbessern:
 
 Parallax-Effekt: Der Parallax-Effekt folgt der Maus- oder Fingerbewegung des Benutzers und erzeugt eine beeindruckende Tiefe, indem sich die Elemente in unterschiedlichem Tempo bewegen. Dieser Effekt sorgt für eine dynamische und fesselnde Erfahrung, die das Engagement der Nutzer erhöht und den visuellen Eindruck verstärkt.
 
 
-**Funktionen**
+**Funktionen**<br>
 Flexibles Layout: Durch den Einsatz von Flexbox habe ich ein Layout entwickelt, das sich nahtlos an verschiedene Bildschirmgrößen anpasst.
 Responsive Design: Die Verwendung von calc() für Schriftgrößen sorgt dafür, dass die Texte auf jedem Gerät optimal lesbar sind, was für die Zugänglichkeit entscheidend ist.
 Interaktive Elemente: Durch ansprechende visuelle Effekte und JavaScript-Interaktionen wird die Benutzererfahrung verbessert und die Interaktivität gefördert.
@@ -54,8 +54,8 @@ Copy code
 <script src="path/to/your/script.js"></script>
 Struktur: Stelle sicher, dass die HTML-Elemente die im CSS definierten Klassen und IDs verwenden, um das Design effektiv anzuwenden.
 
-**Kontakt**
+**Kontakt**<br>
 Ich freue mich über Feedback und Anfragen! Bei Fragen oder Anregungen kannst du mich gerne direkt kontaktieren.
 
-Lizenz
+**Lizenz**<br>
 Dieses Stylesheet und die JavaScript-Interaktionen sind zur freien Nutzung gedacht.
