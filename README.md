@@ -1,5 +1,10 @@
 **README für CSS-Stile und JavaScript-Interaktionen**
 
+**Video-Präsentation**
+Bevor du mit der Nutzung dieses Projekts beginnst, möchte ich dich einladen, dir dieses YouTube-Video anzusehen. Es bietet eine umfassende Einführung in die Funktionen und Design-Elemente, die in diesem Projekt implementiert sind. Bitte schau dir das Video zuerst an:
+
+https://www.youtube.com/watch?v=ueTUKa4RlH4
+
 **Übersicht**
 Willkommen zu meinem CSS-Stylesheet und den dazugehörigen JavaScript-Interaktionen! In diesem Projekt habe ich meine Fähigkeiten in der Frontend-Entwicklung genutzt, um eine ansprechende und dynamische Benutzeroberfläche zu schaffen. Ich habe nicht nur moderne CSS-Techniken wie Flexbox und responsives Design eingesetzt, sondern auch JavaScript verwendet, um interaktive Elemente zu implementieren und einen beeindruckenden Parallax-Effekt zu erzielen. Mein Ziel ist es, ein nahtloses Benutzererlebnis zu bieten, das sowohl ästhetisch ansprechend als auch funktional ist.
 
